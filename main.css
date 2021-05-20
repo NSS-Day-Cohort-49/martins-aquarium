@@ -38,6 +38,7 @@ header {
 
 .fish {
   flex: 1;
+  background-color: aqua;
 }
 
 .fish__image {

@@ -55,3 +55,9 @@ Git stuff:
 -- for preserving our code over time
 -- version control
 -- track changes per project with a repository ( or repo )
+-- Commands
+    -- git init (creates a repo )
+    -- git status ( presents a status report - untracked, changed, staged files )
+    -- git add ( stages changed or untracked files for committing later )
+    -- git commit -m "some message" ( preserves the staged changes/additions into a single record )
+    -- git log ( displays a list of all commits for this repo. Hit "q" to leave the list )
